@@ -1,5 +1,5 @@
 public class Iterative {
-    public int findKth(int[] arr1, int[] arr2, int k) {
+    public int KthElementLinear(int[] arr1, int[] arr2, int k) {
         int n1 = arr1.length;
         int n2 = arr2.length;
         int i = 0, j = 0;  
