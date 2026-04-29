@@ -8,6 +8,13 @@ The project is organized into a clean Java package structure:
 * **Main.java**: The entry point for testing both algorithms with various edge cases.
 * **Iterative.java**: Contains the iterative solution using a two-pointer approach.
 * **Recursive.java**: Implements the optimized Binary Search approach.
+  
+## Team 
+| **Haidi** | [@HAIDI-A](https://github.com/HAIDI-A) |
+| **Nour Ehab** | [@nour-ehab](https://github.com/nour-ehab) |
+| **Noha Emad** | [@Nohaemad19](https://github.com/Nohaemad19) |
+| **Jana Amin** | [@janaadarwish](https://github.com/janaadarwish) |
+| **menna mohamed** | [@mennamohamed4](https://github.com/mennamohamed4) |
 
 ## 🚀 Algorithms
 
